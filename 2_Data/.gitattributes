@@ -1,1 +1,9 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+allN1s_v4.fna.zip filter=lfs diff=lfs merge=lfs -text
+N1C21_SRD06_strict_GMRF_200M_Nov9.log.zip filter=lfs diff=lfs merge=lfs -text
+N1C2_SRD06_strict_GMRF_200M_Nov2.log.zip filter=lfs diff=lfs merge=lfs -text
+N1C31_SRD06_strict_GMRF_200M.log.zip filter=lfs diff=lfs merge=lfs -text
+N1C32_SRD09_strict_GMRF_200M_May21.log.zip filter=lfs diff=lfs merge=lfs -text
+N1C3_r1_hkyGamma4_GMRF_200M_May20.log.zip filter=lfs diff=lfs merge=lfs -text
+N1P_SRD06_strict_GMRF_200M_Aug2.log.zip filter=lfs diff=lfs merge=lfs -text
+N1classical_r1_SRD06_UCLN_GMRF_200M_May21.log.zip filter=lfs diff=lfs merge=lfs -text
