@@ -1,1 +1,1 @@
-# N1-diversity
+# This is the GitHub repository containing data files, scripts and figures supporting the paper, "Characterizing a century of genetic and antigenic diversity of N1 neuraminidase in IAV from North American swine" submitted to Virus Evolution
