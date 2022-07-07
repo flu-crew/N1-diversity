@@ -2,3 +2,4 @@
 - "MCCtree.png" is a maximum clade credibility tree annotated with clade divergence times
 - "allN1s_v4.treefile" is the full maximum-likelihood phylogenetic tree presented in Figure 1
 - "allN1s_v4_classify.treefile" is a modification of "allN1s_v4.treefile" intended to provide classification guidance for people using our data to classify their N1 sequences
+- "regionalCladePatterns.xlsx" and "regionalCladePatterns.csv" contain statistics related to the distribution of clades across states and countries
