@@ -1,0 +1,15 @@
+﻿name,clade size,clade percent in data,region where clade is most present,number clade in region,percent clade in region,percent region in all data,other regions where clade is present
+N1.C,171,4.58%,CAN,76,44.44%,5.19%,"CAN, NJ, AZ, WI, CO, OH, OK, MN, NE, KY, TN, IA, IL"
+N1.H,11,0.29%,NC,5,45.45%,11.53%,"CAN, NC, IL, MN, SC"
+N1.P,629,16.86%,IA,111,17.65%,29.14%,"CAN, MEX, CRI, GTM, CUB, NC, OK, VA, AR, TX, WI, KS, UT, NE, TN, GA, PA, KY, IL, IN, IA, CO, OH, MO, MN, OR, SD"
+N1.C.1,125,3.35%,NC,43,34.40%,11.53%,"CAN, MEX, OR, NC, WI, OH, MO, MN, KY, OK, TN, KS, GA, CA, IL, IN, IA, MD, SD, TX"
+N1.C.3.2,543,14.56%,IA,324,59.67%,29.14%,"NC, OH, PA, MI, MO, MN, FL, NE, TN, KS, AR, IL, IN, IA, AL, OK, SD"
+N1.C.3,1230,32.98%,IA,269,21.87%,29.14%,"MS, NC, OK, VA, AR, TX, AZ, WI, KS, NE, CA, PA, KY, ND, IN, IA, CO, OH, MO, MN, MI, SC, SD, IL"
+N1.C.2,109,2.92%,NE,36,33.03%,3.63%,"MEX, MN, CO, OH, OK, KS, NE, AR, IL, IN, IA, MO, TX, SD"
+N1.C.3.1,711,19.06%,IA,332,46.69%,29.14%,"KS, OK, VA, AR, TX, WI, NC, NE, TN, CA, PA, KY, IL, IN, IA, CO, OH, MO, MN, MI, SC, SD"
+N1.C.1.2,37,0.99%,CAN,10,27.03%,5.19%,"CAN, NC, PA, MN, VA, KY, TN, AR, IL, IA, SD"
+N1.C.1.1,22,0.59%,IA,5,22.73%,29.14%,"OH, OK, MN, NE, CA, IL, IN, IA, TX, SD"
+N1.E.1,18,0.48%,MEX,18,100.00%,1.94%,MEX
+N1.C.2.1,122,3.27%,NC,90,73.77%,11.53%,"MS, MN, OH, MO, NC, UT, VA, IL, IN, IA, TX"
+N1.E,1,0.03%,NA,NA,NA,NA,MEX
+N1.A,1,0.03%,NA,NA,NA,NA,CAN
