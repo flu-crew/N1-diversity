@@ -1,4 +1,4 @@
-- "Figure1.png", "Figure2.png", "Figure3.png", "Figure4.png", and "Figure5.png" are the main figures for the paper
+- "Figure1.png", "Figure2.png", "Figure3.png", "Figure4.png", "Figure5.png", "Table1.docx", and "Table2.xlsx" are the main figures and tables for the paper
 - "Supplemental_FigureS1.png", "Supplemental_FigureS2.png", "Supplemental_TableS1.docx", "Supplemental_TableS2.docx", "Supplemental_TableS3.docx", and "Supplemental_TableS4.docx"are the supplemental figures and tables for the paper
 - "AllSubRateData.xlsx" is a table of all substitution rate results from BEAST including all replicates regardless of convergence
 - "allN1s_v4.treefile" is the full maximum-likelihood phylogenetic tree presented in Figure 1
