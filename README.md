@@ -1,6 +1,6 @@
 # Characterizing a century of genetic diversity and contemporary antigenic diversity of N1 neuraminidase in IAV from North American swine
 
-Graphics and analysis files for the analysis of the N2.2002 neuraminidase from 2009-2018 (swine) in the manuscript:
+Graphics and analysis files for the analysis of the N1 neuraminidase from 1930-2020 (swine) in the manuscript:
 
 David E. Hufnagel, Katharine M. Young, Zebulun Arendsee, L. Claire Gay, C. Joaquin Caceres, Daniela S. Rajão, Daniel R. Perez, Amy L. Vincent Baker, Tavis K. Anderson. Characterizing a century of genetic diversity and contemporary antigenic diversity of N1 neuraminidase in IAV from North American swine. bioRxiv preprint.
 
