@@ -1,4 +1,4 @@
-- BEAST .log files --makeEvolRateBoxPlots.R--> substitution rates boxplot
-- BEAST .log files --calculateStateDiffsFromBEAST.R--> posterior substitution rates from BEAST compared
+- BEAST '.log' files --makeEvolRateBoxPlots.R--> substitution rates boxplot
+- BEAST '.log' files --calculateStateDiffsFromBEAST.R--> posterior substitution rates from BEAST compared
 - allN1s_v4.fna --gatherStateDataForR.py--> allN1s_v4_stateData.tab --addOther.py--> allN1s_v4_stateData_wOther.tab --plotStateBarplots.R--> US state barplots
 - allN1s_v4.fna --gatherStateDataForR.py--> allN1s_v4_cntryData.tab --plotCountryBarplots.R--> country barplots
