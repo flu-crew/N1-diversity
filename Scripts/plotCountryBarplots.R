@@ -5,6 +5,8 @@
 #  rather than what is the NA clade composition of each region.
 #  Created by David E. Hufnagel on Apr 6, 2021
 #  All data was added as a comparison on May 20, 2021
+
+
 library(plyr)
 library(ggplot2)
 

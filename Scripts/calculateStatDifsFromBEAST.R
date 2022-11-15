@@ -40,6 +40,8 @@ plotHistogram <- function(df, x, y) {
 
 
 
+
+
 #Load in data
 clall = read.csv("N1classical_r1_SRD06_UCLN_GMRF_200M_May21.log", skip = 4, header = T, sep="\t")
 n1pall = read.csv("N1P_SRD06_strict_GMRF_200M_Aug2.log", skip = 4, header = T, sep="\t")

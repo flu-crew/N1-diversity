@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 This script is designed to take names files fasta files, extract the 
 region-related information present in them, and output the information in 

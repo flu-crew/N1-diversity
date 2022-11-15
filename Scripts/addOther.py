@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 This script is designed to add an "US_Other" category to our region data to 
 solve the problem of having too many different regions to tell them apart on
