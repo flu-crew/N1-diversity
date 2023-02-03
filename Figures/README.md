@@ -6,4 +6,3 @@
 - "allN1s_v4_classify.treefile" is a modification of "allN1s_v4.treefile" intended to provide classification guidance for people using our data to classify their N1 sequences
 - "distanceMatrixPreSplit.xlsx" shows the distance matrix without spliting N1.C.3 into N1.C.3 + N1.C.3.1 + N1.C.3.2
 - "globalN1s.tre" is the full maximum-likelihood phylogenetic tree presented in Supplemental Figure 1
-- "globalN1s.fna" is the fasta file associated with "globalN1s.tre"
